@@ -1,0 +1,22 @@
+{
+    "darmstadium": {
+        "lat": 49.8740,
+        "lon": 8.6560
+    },
+    "mathildenhöhe": {
+        "lat": 49.8770,
+        "lon": 8.6670
+    },
+    "orangerie_park": {
+        "lat": 49.8640,
+        "lon": 8.6650
+    },
+    "schloss": {
+        "lat": 49.8730,
+        "lon": 8.6550
+    },
+    "waldspirale": {
+        "lat": 49.8860,
+        "lon": 8.6550
+    }
+}

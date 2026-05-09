@@ -1,0 +1,338 @@
+{
+    "0": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Darmstadt-16-Darmstadtium-2013-gje.jpg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "1": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Darmstadtium.jpg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "2": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Darmstadtium_04.jpg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "3": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Darmstadtium_05.jpg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "4": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Darmstadtium_11.jpeg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "5": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Darmstadtium_13.jpeg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "6": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Darmstadt_Darmstadtium_2.jpg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "7": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Kongresejo_Darmstadtium_a.jpg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "8": {
+        "landmark_name": "darmstadium",
+        "filename": "1024px-Kongresejo_Darmstadtium_b.jpg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "9": {
+        "landmark_name": "darmstadium",
+        "filename": "Meyer_jens_j_zisterne_des_lichts_darmstadtium_darmstadt_2009_2.jpg",
+        "lat": 49.874,
+        "lon": 8.656
+    },
+    "10": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Darmstadt-Mathildenhoehe-04-2013-gje.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "11": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Darmstadt-Mathildenhoehe-Grosses_Glueckerthaus-06-innen-2013-gje.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "12": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Darmstadt-Mathildenhoehe-Russische_Kirche-04-2013-gje.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "13": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Darmstadt-Mathildenhoehe-Russische_Kirche-08-2013-gje.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "14": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Darmstadt-Mathildenhoehe-Schwanentempel-06-Hochzeitsturm-2013-gje.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "15": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Darmstadt_-_Mathildenh\u00f6he_-_Ernst-Ludwig-Haus_-_Portal_(2926).jpg",
+        "lat": null,
+        "lon": null
+    },
+    "16": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Darmstadt_Mathildenh\u00f6he.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "17": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Mathildenh\u00f6he,_Darmstadt,_sculpture_of_naked_young_man.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "18": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Mathildenh\u00f6he,_Darmstadt,_villa_entrance.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "19": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Mathildenh\u00f6he_a_Darmstadt_01.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "20": {
+        "landmark_name": "mathildenh\u00f6he",
+        "filename": "1024px-Mosaic_niche_-_Mathildenh\u00f6he_-_Darmstadt,_Germany_-_DSC06418.jpg",
+        "lat": null,
+        "lon": null
+    },
+    "21": {
+        "landmark_name": "orangerie_park",
+        "filename": "1280px-Orangerie_w_Darmstadt_-_fasada_pn.jpeg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "22": {
+        "landmark_name": "orangerie_park",
+        "filename": "Darmstadt-Orangerie-Torbau.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "23": {
+        "landmark_name": "orangerie_park",
+        "filename": "Darmstadt_Bessungen,_Orangerie-01.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "24": {
+        "landmark_name": "orangerie_park",
+        "filename": "Darmstadt_Bessunger_Orangerie.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "25": {
+        "landmark_name": "orangerie_park",
+        "filename": "Darmstadt_Bessunger_Orangerie_Garten.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "26": {
+        "landmark_name": "orangerie_park",
+        "filename": "Darmstadt_Orangerie_2020.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "27": {
+        "landmark_name": "orangerie_park",
+        "filename": "Orangerie-Schl\u00f6sschen_und_Garten_Darmstadt.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "28": {
+        "landmark_name": "orangerie_park",
+        "filename": "Orangerie_Darmstadt.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "29": {
+        "landmark_name": "orangerie_park",
+        "filename": "Orangerie_Darmstadt_Bessunger_Orangeriegarten.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "30": {
+        "landmark_name": "orangerie_park",
+        "filename": "Orangerie_mit_Springbrunnen.jpg",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "31": {
+        "landmark_name": "orangerie_park",
+        "filename": "Orangerie_w_Darmstadt_-_fasada_pd.JPG",
+        "lat": 49.864,
+        "lon": 8.665
+    },
+    "32": {
+        "landmark_name": "schloss",
+        "filename": "darmstadt_residenzschloss-4675566.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "33": {
+        "landmark_name": "schloss",
+        "filename": "Darmstadt_Residenzschloss_asv2024-09_img4.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "34": {
+        "landmark_name": "schloss",
+        "filename": "Darmstadt_Schloss_Fassade_Marktplatz_06.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "35": {
+        "landmark_name": "schloss",
+        "filename": "Details_Of_Schloss_Residenz_Darmstadt_I.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "36": {
+        "landmark_name": "schloss",
+        "filename": "Gro\u00df-Umstadt_Wamboltsches_Schloss_008.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "37": {
+        "landmark_name": "schloss",
+        "filename": "Man_glaubt_fast,_hier_das_Mannheimer_Schloss_zu_sehen._-_panoramio.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "38": {
+        "landmark_name": "schloss",
+        "filename": "Residenzschloss_Darmstadt.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "39": {
+        "landmark_name": "schloss",
+        "filename": "schloss-darmstadt.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "40": {
+        "landmark_name": "schloss",
+        "filename": "schlossmuseum-darmstadt.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "41": {
+        "landmark_name": "schloss",
+        "filename": "Schloss_Glockenspiel_3.jpg",
+        "lat": 49.873,
+        "lon": 8.655
+    },
+    "42": {
+        "landmark_name": "waldspirale",
+        "filename": "1280px-Darmstadt-Waldspirale-Hundertwasser0.jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "43": {
+        "landmark_name": "waldspirale",
+        "filename": "1280px-Waldspirale_-_Darmstadt_-_Friedensreich_Hundertwasser_-_Heinz_Springmann_-_10.jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "44": {
+        "landmark_name": "waldspirale",
+        "filename": "August_2006_Darmstadt_2.jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "45": {
+        "landmark_name": "waldspirale",
+        "filename": "Darmstadt-20-Waldspirale-vom_Hochzeitsturm-2013-gje.jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "46": {
+        "landmark_name": "waldspirale",
+        "filename": "Darmstadt-Waldspirale-Hundertwasser2.jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "47": {
+        "landmark_name": "waldspirale",
+        "filename": "Darmstadt-Waldspirale-Hundertwasser3.jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "48": {
+        "landmark_name": "waldspirale",
+        "filename": "Darmstadt-Waldspirale-Hundertwasser4.jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "49": {
+        "landmark_name": "waldspirale",
+        "filename": "Limmeuble_Waldspirale_(Darmstadt)_(7954668126).jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "50": {
+        "landmark_name": "waldspirale",
+        "filename": "Waldspirale_Darmstadt_(49337047348).jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "51": {
+        "landmark_name": "waldspirale",
+        "filename": "Waldspirale_Darmstadt_(49337510491).jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "52": {
+        "landmark_name": "waldspirale",
+        "filename": "Waldspirale_Darmstadt_(49337510646).jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "53": {
+        "landmark_name": "waldspirale",
+        "filename": "Waldspirale_Darmstadt_(49337731512).jpg",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "54": {
+        "landmark_name": "waldspirale",
+        "filename": "Waldspirale_Darmstadt_-_IMG_7057.JPG",
+        "lat": 49.886,
+        "lon": 8.655
+    },
+    "55": {
+        "landmark_name": "waldspirale",
+        "filename": "Waldspirale_Darmstadt_-_IMG_7058.JPG",
+        "lat": 49.886,
+        "lon": 8.655
+    }
+}

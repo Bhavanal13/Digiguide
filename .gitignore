@@ -1,0 +1,29 @@
+# Python / Backend
+.venv/
+venv/
+*/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# FastAPI / Cache / Logs
+*.log
+.env
+
+# Flutter / Frontend
+flutter_export_environment.sh
+build/
+.packages
+pubspec.lock
+.dart_tool/
+android/.gradle/
+android/app/key.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
