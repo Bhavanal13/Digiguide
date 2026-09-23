@@ -1,4 +1,4 @@
-# DigiGuide 📸🗺️
+# DigiGuide
 
 A mobile + AI-powered tourist guide that recognizes historical landmarks through photos and returns detailed information instantly.
 
@@ -17,7 +17,7 @@ The goal is to build an app where a user points their camera at a monument, snap
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 digiguide/
@@ -30,16 +30,16 @@ digiguide/
 
 ---
 
-## 🚀 Features (current & planned)
+## Features (current & planned)
 
-### ✅ Current
+### Current
 
 * Flutter UI structure created
 * FastAPI backend initialized
 * Virtual environment setup completed
 * Git repository initialized
 
-### 🔜 Coming Next
+### Coming Next
 
 * `/recognize` API endpoint (image upload)
 * CLIP-based image embedding
@@ -49,9 +49,9 @@ digiguide/
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
-### 1️⃣ Clone or Initialize the Project
+### 1️ Clone or Initialize the Project
 
 If you haven't already:
 
@@ -60,7 +60,7 @@ git clone https://github.com/<your-username>/digiguide.git
 cd digiguide
 ```
 
-### 2️⃣ Backend Setup (FastAPI)
+### 2️ Backend Setup (FastAPI)
 
 #### Create & activate virtual environment
 
@@ -97,7 +97,7 @@ Access backend:
 
 ---
 
-### 3️⃣ Frontend Setup (Flutter)
+### 3️ Frontend Setup (Flutter)
 
 ```
 cd frontend
@@ -113,7 +113,7 @@ Make sure you've installed:
 
 ---
 
-## 🧠 Planned AI Architecture
+## Planned AI Architecture
 
 The backend will evolve into:
 
@@ -130,7 +130,7 @@ Flutter App → FastAPI → CLIP Encoder → FAISS Vector Search → Landmark Da
 
 ---
 
-## 📸 Recognition API (Planned Example)
+## Recognition API (Planned Example)
 
 ```http
 POST /recognize
@@ -154,7 +154,7 @@ Response:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 After backend starts:
 
@@ -170,7 +170,7 @@ Should output:
 
 ---
 
-## 🤝 Contribution Guide
+## Contribution Guide
 
 * Use feature branches (`feature/<name>`) for enhancements
 * Commit messages should be clear and concise
@@ -178,7 +178,7 @@ Should output:
 
 ---
 
-## 📄 License
+##  License
 
 This project is currently private and unlicensed.
 
